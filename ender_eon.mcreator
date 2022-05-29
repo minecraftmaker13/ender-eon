@@ -1,0 +1,41 @@
+{
+  "mod_elements": [
+    {
+      "name": "LumineBlock",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lumine_block"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.ender_eon.lumine_block": "Lumine Block"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "ender_eon",
+    "modName": "Ender Eon",
+    "version": "1.0.0",
+    "author": "dooli, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "modElementsPackage": "net.mcreator.endereon",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}

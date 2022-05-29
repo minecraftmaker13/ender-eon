@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ender_eon:blocks/yelroe",
+    "up": "ender_eon:blocks/yelroe",
+    "north": "ender_eon:blocks/yelroe",
+    "east": "ender_eon:blocks/yelroe",
+    "south": "ender_eon:blocks/yelroe",
+    "west": "ender_eon:blocks/yelroe",
+    "particle": "ender_eon:blocks/yelroe"
+  }
+}
